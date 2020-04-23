@@ -1,0 +1,14 @@
+Specifications:
+
+80 kWh and 90 kWh
+Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
+Max. power, motor			302 hp 285 kW		562 hp 285 kW
+Max. power, battery			265 hp 175 kW		902 hp 225 kW
+
+
+ARAI Mileage			10.2kmpl
+Max Power (bhp@rpm)		616bhp@6000rpm
+Max Torque (nm@rpm)		800Nm@2000rpm
+Seating Capacity		5
+Transmission Type		Automatic
+Body Type			Sedan

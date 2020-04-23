@@ -1,0 +1,15 @@
+Specifications:
+
+40 kWh and 60 kWh
+Range					EPA: 139 mi 224 km	EPA: 210 mi 340 km 	
+Max. power, motor			382 hp 285 kW		382 hp 285 kW
+Max. power, battery			235 hp 175 kW		302 hp 225 kW
+
+
+
+ARAI Mileage			10.41kmpl
+Max Power (bhp@rpm)		552.5bhp@5700-6600rpm
+Max Torque (nm@rpm)		700Nm@1750-5500rpm
+Seating Capacity		5
+TransmissionType		Automatic
+Body Type			Wagon
